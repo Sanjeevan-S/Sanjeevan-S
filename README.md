@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sanjeevan
+- 👀 I’m interested in Web Development, and all things around it
+- 🌱 I’m currently learning Javascript, Node.js,  Next.js, Nuxt 3
+- 📫 You can reach me through my email - sanjeevan.xvii@gmail.com
